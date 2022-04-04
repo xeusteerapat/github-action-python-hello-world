@@ -12,7 +12,7 @@ def hello():
 
 @app.route("/me")
 def test():
-    return "Hello, My name is Teerapat"
+    return "Hello, My name is Teerapat :)"
 
 
 @app.route("/status")
